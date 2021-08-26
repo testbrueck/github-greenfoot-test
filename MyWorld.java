@@ -23,5 +23,6 @@ public class MyWorld extends World
     public void initObjects()
     {
         addObject(new Eisbaer(), 70, 70);
+        addObject(new Bee(), 270, 720);
     }
 }
